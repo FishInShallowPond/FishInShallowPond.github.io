@@ -45,4 +45,3 @@ nav:
   - 首页: index.md
   - 计算机专业课:
     - 计网: docs\cs_course\计网.md  #.md文件的相对路径
-    - 操作系统: docs\cs_course\操作系统.md
