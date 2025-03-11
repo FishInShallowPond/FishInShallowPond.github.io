@@ -49,12 +49,7 @@ nav:
   - Blog:
     - blog\index.md
   - lab:
-    - Kyber 和 Aigis-enc的不同之处: lab\Kyber 和 Aigis-enc的不同之处.htm
-    - kyber: lab\kyber.pdf
-    - Aigis-enc: lab\Aigis-enc算法设计文档.pdf
-    - Aigis-sig: lab\1.Aigis-sig算法设计文档.pdf
-    - dilithium: lab\Dilithium算法设计文档.pdf
-
+    - lab\Kyber 和 Aigis-enc的不同之处.htm
 
 
 extra:
