@@ -68,7 +68,7 @@ extra:
       link: https://t.me/wecowin
       name: telegram
     - icon: fontawesome/brands/github
-      link: https://github.com/FishInShallowPond/FishInShallowPond.github.io
+      link: https://github.com/FishInShallowPond?tab=repositories
       name: github
 
 
