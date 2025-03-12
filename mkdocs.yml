@@ -45,7 +45,7 @@ nav:
   - 首页: index.md
   - 笔记:
     - 计算机专业课:
-      - 操作系统: cs_course/operationSys.md
+      - 操作系统: cs_course/操作系统.md
       - 计网: cs_course/计网.md
   - Blog:
     - blog\index.md
